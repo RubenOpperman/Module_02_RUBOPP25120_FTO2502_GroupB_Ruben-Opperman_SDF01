@@ -48,18 +48,18 @@ Here are some of my milestone projects (to be updated as I progress!):
 ### **1️⃣ First GitHub Project**
 
 🔹 **Description:** My first project using GitHub to manage files.  
-🔹 **Status:** ✅ Completed
+🔹 **Status:** ✅ Completed.
 
 ### **2️⃣ Property Market Project**
 🔹 **Description:** a Database Project that includes CRUD. 
-🔹 **Technologies:** Delphi
-🔹 **Status:** ✅ Completed
+🔹 **Technologies:** Delphi.
+🔹 **Status:** ✅ Completed.
 
 ### **3 Personal Portfolio** _(Coming Soon!)_
 
 🔹 **Description:** A simple portfolio to showcase my projects.  
-🔹 **Technologies:** HTML, CSS ,JavaScript
-🔹 **Status:** ⏳ In Progress
+🔹 **Technologies:** HTML, CSS ,JavaScript.
+🔹 **Status:** ⏳ In Progress.
 
 ---
 
@@ -75,7 +75,7 @@ Here are some of my milestone projects (to be updated as I progress!):
 ## 📫 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/RubenOpperman)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ruben-opperman-144709353)  
 📧 Email: [Oppiesfam123@gmail.com](mailto:Oppiesfam123@gmail.com)
 
 ---
