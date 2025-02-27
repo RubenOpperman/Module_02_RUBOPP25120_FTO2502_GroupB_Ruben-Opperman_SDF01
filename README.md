@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Ruben Opperman
 
 🌱 Beginner Software Developer | 🚀 Excited to Learn & Build
 
@@ -10,6 +10,7 @@
 - 🎓 Soon, I'll be exploring **HTML, CSS, and JavaScript**!
 - 🤖 I love problem-solving and working on creative projects.
 - 🔥 Looking forward to building my first real-world application.
+- 🤖 I love learning new skills and applying them to projects i want to build.
 
 ---
 
@@ -34,6 +35,9 @@
 - 📢 Communication Skills
 - 🎯 Problem-Solving
 - 🚀 Adaptability
+- 🎯 Critical thinking
+- 📢 time management
+- 🚀 professionalism
 
 ---
 
@@ -46,10 +50,15 @@ Here are some of my milestone projects (to be updated as I progress!):
 🔹 **Description:** My first project using GitHub to manage files.  
 🔹 **Status:** ✅ Completed
 
-### **2️⃣ Personal Portfolio** _(Coming Soon!)_
+### **2️⃣ Property Market Project**
+🔹 **Description:** a Database Project that includes CRUD. 
+🔹 **Technologies:** Delphi
+🔹 **Status:** ✅ Completed
+
+### **3 Personal Portfolio** _(Coming Soon!)_
 
 🔹 **Description:** A simple portfolio to showcase my projects.  
-🔹 **Technologies:** HTML, CSS
+🔹 **Technologies:** HTML, CSS ,JavaScript
 🔹 **Status:** ⏳ In Progress
 
 ---
@@ -59,23 +68,26 @@ Here are some of my milestone projects (to be updated as I progress!):
 - 🚀 Get comfortable using Git and GitHub
 - 🎨 Learn HTML, CSS, and JavaScript
 - 💡 Build real-world projects and collaborate with others
+- 📢 Learn python 
 
 ---
 
 ## 📫 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/RubenOpperman)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-📧 Email: [youremail@example.com](mailto:youremail@example.com)
+📧 Email: [Oppiesfam123@gmail.com](mailto:Oppiesfam123@gmail.com)
 
 ---
 
-## 🚀 Fun Fact
+## 🚀 Fun Facts
 
-💡 I love learning new things and can't wait to build my first website!
+💡I love learning new things and can't wait to build my first website!
+💡I love to improve my skills. 
+💡I would love to start creating programs that can help me with my everyday life.
 
 ---
 
 ## 🏆 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RubenOpperman&show_icons=true&theme=radical)
