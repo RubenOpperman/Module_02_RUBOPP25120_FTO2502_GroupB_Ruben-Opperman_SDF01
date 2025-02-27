@@ -56,10 +56,10 @@ Here are some of my milestone projects (to be updated as I progress!):
 🔹 **Technologies:** Delphi  
 🔹 **Status:** ✅ Completed
 
-### **3 Personal Portfolio** _(Coming Soon!)_
+### **3️⃣ Personal Portfolio** _(Coming Soon!)_
 
 🔹 **Description:** A simple portfolio to showcase my projects.  
-🔹 **Technologies:** HTML, CSS ,JavaScript
+🔹 **Technologies:** HTML, CSS, JavaScript  
 🔹 **Status:** ⏳ In Progress
 
 ---
